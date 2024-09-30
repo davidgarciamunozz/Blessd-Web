@@ -7,7 +7,7 @@ import {
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu"
-
+ 
 export default function ArtistFanPage() {
   const [isMenuOpen, setIsMenuOpen] = React.useState(false)
 

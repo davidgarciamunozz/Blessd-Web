@@ -1,10 +1,10 @@
-import TaylorSwiftFanPage from "./pages/Home"
+import ArtistFanPage from "./pages/Home"
 
 
 function App() {
 
   return (
-    <TaylorSwiftFanPage />
+    <ArtistFanPage />
   )
 }
 
