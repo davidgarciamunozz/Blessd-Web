@@ -1,10 +1,13 @@
-import ArtistFanPage from "./pages/Home"
+import { BrowserRouter as Router } from "react-router-dom"
+import AppRoutes from "./Routes"
 
 
 function App() {
 
   return (
-    <ArtistFanPage />
+    <Router>
+      <AppRoutes />
+    </Router>
   )
 }
 
