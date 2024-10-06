@@ -42,7 +42,7 @@ const LatestHits: React.FC = () => {
             </h3>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                 {songs.map(({ name, img, preview }) => (
-                    <div key={name} className="bg-white rounded-lg shadow-md relative">
+                    <div key={name} className="bg-black rounded-lg shadow-md relative">
                         <img 
                             src={img} 
                             alt={name} 
@@ -54,7 +54,7 @@ const LatestHits: React.FC = () => {
                         >
                             {currentSong === preview ? <Pause size={24} /> : <Play size={24} />}
                         </button>
-                        <div className='px-4 pb-4'>
+                        <div className='px-4 pb-4 bg-black text-white'>
                             <h4 className="font-bold">{name}</h4>
                             <p>Escucha {name} ahora!</p>
                         </div>

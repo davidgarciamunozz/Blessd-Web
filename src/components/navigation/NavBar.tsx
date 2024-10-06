@@ -20,7 +20,7 @@ export default function NavBar() {
           </Button>
           <nav className={`${isMenuOpen ? 'block' : 'hidden'} md:block`}>
             <ul className="md:flex space-y-2 md:space-y-0 md:space-x-4">
-              <li><Link to="/Blessd-Web/Music" className="hover:text-blue-300">Música</Link></li>
+              <li><a href="#music" className="hover:text-blue-300">Música</a></li>
               <li><Link to="/Blessd-Web/Videos" className="hover:text-blue-300">Videos</Link></li>
               <li><Link to="/Blessd-Web/Gallery" className="hover:text-blue-300">Galería</Link></li>
               <li><Link to="/Blessd-Web/Interviews" className="hover:text-blue-300">Entrevistas</Link></li>

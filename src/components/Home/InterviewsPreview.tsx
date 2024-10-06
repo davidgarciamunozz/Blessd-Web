@@ -63,8 +63,8 @@ function InterviewsPreview() {
               key={video.id}
               className={`mt-2 ${
                 activeVideo.id === video.id
-                  ? 'bg-blue-600 text-white'
-                  : 'bg-white text-blue-900 hover:bg-blue-100'
+                  ? 'bg-black text-white'
+                  : 'bg-white text-black hover:bg-violet-200'
               }`}
               onClick={() => {
                 setActiveVideo(video);
