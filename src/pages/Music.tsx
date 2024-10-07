@@ -14,13 +14,19 @@ function Music() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div className="space-y-4">
             <p>
-              Blessd, cuyo nombre real es Stiven Mesa Londoño, es un cantante colombiano nacido en
+              Blessd, cuyo nombre real es <strong>Stiven Mesa Londoño</strong>, es un cantante colombiano nacido en
               Medellín el 27 de enero de 2000. Su historia es un relato inspirador de superación y éxito en el
               mundo de la música urbana, específicamente el reguetón y el trap.
             </p>
             <p>
               A una edad temprana, Blessd comenzó a interesarse por la música y a componer canciones, influenciado por
               artistas de reguetón como Daddy Yankee, Arcángel y J Balvin.
+            </p>
+            <p>
+              Blessd vivió una infancia difícil, marcada por condiciones económicas precarias. Creció en
+              un entorno vulnerable, pero su pasión por la música lo mantuvo enfocado en perseguir sus
+              sueños. Empezó cantando en fiestas y eventos locales, donde fue ganando reconocimiento
+              en su barrio y en la ciudad.
             </p>
           </div>
           <div className="flex justify-center items-center">
@@ -42,21 +48,10 @@ function Music() {
           </div>
           <div className="space-y-4 order-1 md:order-2">
             <p>
-              Blessd vivió una infancia difícil, marcada por condiciones económicas precarias. Creció en
-              un entorno vulnerable, pero su pasión por la música lo mantuvo enfocado en perseguir sus
-              sueños. Empezó cantando en fiestas y eventos locales, donde fue ganando reconocimiento
-              en su barrio y en la ciudad.
-            </p>
-            <p>
               En 2019, lanzó su primer sencillo, "Una", que comenzó a darle visibilidad en la escena
               musical local. Su verdadero salto a la fama llegó en 2020 con el tema "Imposible Remix", en
               colaboración con Maluma, que fue un éxito a nivel internacional.
             </p>
-          </div>
-        </div>
-
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-12">
-          <div className="space-y-4">
             <p>
               Esto le abrió puertas en la industria y le permitió trabajar con otros grandes artistas del reguetón como Feid, Myke
               Towers y Nicky Jam.
@@ -68,6 +63,49 @@ function Music() {
               personal, y ha sido elogiado por su capacidad para conectar con audiencias tanto en
               Colombia como internacionalmente.
             </p>
+            <p>Además de su éxito musical, Blessd también ha sido un ejemplo de resiliencia, demostrando
+              que, a pesar de las dificultades económicas y sociales, es posible alcanzar los sueños con
+              esfuerzo, talento y perseverancia.
+            </p>
+          <p>
+              Una de las canciones que demuestran el proceso de su historia es ,<strong>“CONDENADO AL ÉXITO
+              II”</strong> La canción de Blessd refleja una profunda introspección personal, espiritualidad y temas
+              de superación. En ella, el artista aborda varios aspectos de su vida, desde sus luchas
+              internas hasta su fe en Dios, así como su deseo de alcanzar el éxito mientras mantiene los
+              pies en la tierra.
+              Algunos de los temas que trata de acuerdo a la letra son:
+            </p>
+          </div>
+        </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-12">
+          <div className="space-y-4">
+            
+            <p>
+             <strong>Fe y espiritualidad:</strong> <br /> <br />
+            Desde el principio, Blessd menciona su conexión con Dios, describiendo cómo la fe lo guía en
+            sus momentos de mayor duda y dificultad. Habla del “León de Judá” y de cómo Jesús es su
+            “bastón” en esta “dura lucha”. A través de este lenguaje bíblico, manifiesta que su éxito y
+            bienestar dependen de su confianza en un poder superior. La fe es para él una fuente de luz
+            en medio de la oscuridad y un refugio cuando se siente perdido, lo que lo lleva a arrodillarse y
+            hablar directamente con Dios en busca de consuelo y guía.
+            </p>
+          <p>
+           <strong>Perseverancia y trabajo duro:</strong> <br /><br />
+            La letra también resalta la importancia del esfuerzo y la paciencia. Dios le dice “Trabaja,
+            cosecha y espera / No puedes debutar sin pasar primero por la cantera”, lo que ilustra la
+            creencia de Blessd en que todo éxito requiere sacrificio y tiempo. Esta filosofía de vida lo
+            mantiene centrado en trabajar y no rendirse, a pesar de los obstáculos.
+          </p>
+          <p>
+           <strong>Superación y motivación:</strong> <br /><br />
+          La parte final de la canción gira en torno a su triunfo personal. Menciona que “todo se nos
+          dio”, sugiriendo que su esfuerzo finalmente rindió frutos. Habla del éxito material (“Mucho’
+          carro’, mucha’ joya, muchas chimbas”) pero aclara que “la energía de Stiven, la misma”, lo
+          que implica que, a pesar de haber alcanzado el éxito, su esencia no ha cambiado. Esta parte
+          de la canción también busca motivar a otros, recordándoles que ellos también pueden lograr
+          sus metas si trabajan duro y mantienen la fe.
+          </p>
           </div>
           <div className="flex justify-center items-center">
             <img
