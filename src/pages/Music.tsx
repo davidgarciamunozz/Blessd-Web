@@ -15,7 +15,7 @@ function Music() {
           <div className="space-y-4">
             <p>
               Blessd, cuyo nombre real es <strong>Stiven Mesa Londoño</strong>, es un cantante colombiano nacido en
-              Medellín el 27 de enero de 2000. Su historia es un relato inspirador de superación y éxito en el
+              Medellín el 27 de enero de 2000 en el barrio Antioquia. Su historia es un relato inspirador de superación y éxito en el
               mundo de la música urbana, específicamente el reguetón y el trap.
             </p>
             <p>
