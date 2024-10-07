@@ -8,11 +8,11 @@ import Interviews from './pages/Interviews';
 function AppRoutes () {
   return (
     <Routes>
-      <Route path="/Blessd-web/" element={<ArtistFanPage />} />
-      <Route path="/Blessd-web/History" element={<Music />} />
-      <Route path="/Blessd-web/Videos" element={<Videos />} />
-      <Route path="/Blessd-web/Gallery" element={<PhotoGallery />} />
-      <Route path="/Blessd-web/Interviews" element={<Interviews />} />
+      <Route path="/Blessd-Web/" element={<ArtistFanPage />} />
+      <Route path="/Blessd-Web/History" element={<Music />} />
+      <Route path="/Blessd-Web/Videos" element={<Videos />} />
+      <Route path="/Blessd-Web/Gallery" element={<PhotoGallery />} />
+      <Route path="/Blessd-Web/Interviews" element={<Interviews />} />
     </Routes>
   )
 }
