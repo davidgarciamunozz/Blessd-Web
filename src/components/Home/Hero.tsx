@@ -12,7 +12,7 @@ export default function Hero () {
             />
             <div className="absolute inset-0 flex items-end">
               <div className="p-8">
-                <Link to='/Blessd-Web/History'><Button className="bg-white text-blue-900 hover:bg-blue-100">Conoce su historia</Button></Link>
+                <Link to='/Blessd-Web/Historia'><Button className="bg-white text-blue-900 hover:bg-blue-100">Conoce su historia</Button></Link>
               </div>
             </div>
           </div>

@@ -9,7 +9,7 @@ function AppRoutes () {
   return (
     <Routes>
       <Route path="/Blessd-Web/" element={<ArtistFanPage />} />
-      <Route path="/Blessd-Web/History" element={<Music />} />
+      <Route path="/Blessd-Web/Historia" element={<Music />} />
       <Route path="/Blessd-Web/Videos" element={<Videos />} />
       <Route path="/Blessd-Web/Gallery" element={<PhotoGallery />} />
       <Route path="/Blessd-Web/Interviews" element={<Interviews />} />
