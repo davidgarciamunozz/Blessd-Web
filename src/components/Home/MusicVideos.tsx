@@ -18,9 +18,9 @@ const musicVideos = [
   },
   {
     id: 3,
-    title: "Magia - Blessd",
-    url: "https://www.youtube.com/watch?v=mKq5CFLsIks",
-    thumbnailUrl: "https://img.youtube.com/vi/mKq5CFLsIks/maxresdefault.jpg",
+    title: "Condenado al éxito - Blessd",
+    url: "https://www.youtube.com/watch?v=YkBrEfFpnBs",
+    thumbnailUrl: "https://img.youtube.com/vi/YkBrEfFpnBs/maxresdefault.jpg",
   },
 ];
 
