@@ -25,7 +25,7 @@ function Music() {
           </div>
           <div className="flex justify-center items-center">
             <img
-              src=""
+              src="https://imagenes.expreso.ec/files/image_1200_675/uploads/2021/06/03/60b95329ae89a.jpeg"
               alt="Blessd de joven"
               className="rounded-lg shadow-lg w-full max-w-md object-cover"
             />
@@ -35,7 +35,7 @@ function Music() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-12">
           <div className="flex justify-center items-center order-2 md:order-1">
             <img
-              src=""
+              src="https://scontent.fclo1-4.fna.fbcdn.net/v/t39.30808-6/312348855_630803678602849_8721657993318572154_n.jpg?stp=cp6_dst-jpg_s1080x2048&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=tHhNpH3N37kQ7kNvgGwEk3D&_nc_ht=scontent.fclo1-4.fna&_nc_gid=AIrvF7zd2FkjMAPnvdjRLcU&oh=00_AYCFqJaUV_to4dpDx_BFwzvWz09YtIBCrod6pPtgAKODvg&oe=67092125"
               alt="Blessd en sus inicios"
               className="rounded-lg shadow-lg w-full max-w-md object-cover"
             />
@@ -71,7 +71,7 @@ function Music() {
           </div>
           <div className="flex justify-center items-center">
             <img
-              src=""
+              src="https://sitiomusical.com/wp-content/uploads/2021/12/blessd_20211207_3-823x1024.jpg"
               alt="Blessd en concierto"
               className="rounded-lg shadow-lg w-full max-w-md object-cover"
             />
