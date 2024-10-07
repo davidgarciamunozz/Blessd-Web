@@ -1,10 +1,17 @@
 import { Camera } from 'lucide-react'
+import { useEffect } from 'react'
+import { Link } from 'react-router-dom'
 
 function PhotoGalleryPreview () {
+    useEffect (() => {
+      scrollTo(0,0)
+    } , [])
     return (
         <section id="gallery" className="mb-12">
         <h3 className="text-2xl font-bold mb-4 flex items-center text-white">
+          <Link className='flex items-center' to='/Blessd-Web/Gallery'>
           <Camera className="mr-2" /> Galería de Fotos
+          </Link>
         </h3>
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
         {[

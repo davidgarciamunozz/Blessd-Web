@@ -12,7 +12,7 @@ export default function MusicBanner({ gifUrl }: MusicBannerProps) {
       <div className="absolute inset-0 bg-gradient-to-b from-black/60 to-black/30" />
       <div className="absolute inset-0 flex items-center justify-center">
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-white text-center">
-          Condenado al éxito
+          
         </h1>
       </div>
     </div>
