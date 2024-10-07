@@ -38,7 +38,7 @@ const LatestHits: React.FC = () => {
     return (
         <section id="music" className="mb-12">
             <h3 className="text-2xl font-bold mb-4 flex items-center text-white">
-                <Music className="mr-2" /> Últimos lanzamientos
+                <Music className="mr-2" /><a href='https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX'> Últimos lanzamientos</a>
             </h3>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                 {songs.map(({ name, img, preview }) => (

@@ -13,7 +13,7 @@ export default function ArtistFanPage() {
     <div className="min-h-screen bg-black">
       <NavBar />
       <main className="container mx-auto p-4">
-      <Hero />
+      <a href='https://wmerchshop.com/'><Hero /> </a>
       <WelcomeSection />
       <LatestHits />
       <MusicVideosPreview />
